@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/coin-app/static/js/main.6a61820c.chunk.js",
+    "main.js.map": "/coin-app/static/js/main.6a61820c.chunk.js.map",
+    "runtime-main.js": "/coin-app/static/js/runtime-main.06d22f4c.js",
+    "runtime-main.js.map": "/coin-app/static/js/runtime-main.06d22f4c.js.map",
+    "static/js/2.22c16336.chunk.js": "/coin-app/static/js/2.22c16336.chunk.js",
+    "static/js/2.22c16336.chunk.js.map": "/coin-app/static/js/2.22c16336.chunk.js.map",
+    "index.html": "/coin-app/index.html",
+    "static/js/2.22c16336.chunk.js.LICENSE.txt": "/coin-app/static/js/2.22c16336.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06d22f4c.js",
+    "static/js/2.22c16336.chunk.js",
+    "static/js/main.6a61820c.chunk.js"
+  ]
+}
